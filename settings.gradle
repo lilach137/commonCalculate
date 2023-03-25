@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Class23B-Andb-1"
-include ':cigarettes'
+include ':BMI'
 include ':common'
-include ':cola'
+include ':fatPercentage'

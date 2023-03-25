@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7B2CED</color>
+    <color name="colorPrimaryDark">#573C87</color>
+    <color name="colorAccent">#4A3968</color>
+
+    <color name="background">#3A0D44</color>
+    <color name="card_background">#45134E</color>
+
+    <color name="stepper">#602B68</color>
+    <color name="tint">#773B81</color>
+
+
+    <color name="colorPrimaryVariant">#57039F</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#018786</color>
+    <color name="colorBackground">#018786</color>
+    <color name="colorOnBackground">#018786</color>
+    <color name="colorSurface">#018786</color>
+    <color name="colorOnSurface">#018786</color>
+    <color name="colorError">#018786</color>
+    <color name="colorOnError">#018786</color>
+
+</resources>

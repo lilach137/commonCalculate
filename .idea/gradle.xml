@@ -7,12 +7,13 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/cigarettes" />
-            <option value="$PROJECT_DIR$/cola" />
+            <option value="$PROJECT_DIR$/BMI" />
             <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/fatPercentage" />
           </set>
         </option>
       </GradleProjectSettings>
