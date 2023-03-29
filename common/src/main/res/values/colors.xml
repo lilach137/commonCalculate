@@ -12,10 +12,10 @@
     <color name="tint">#773B81</color>
 
 
-        <color name="colorPrimaryVariant">#2A4D77</color>
+        <color name="colorPrimaryVariant">#9477C6</color>
         <color name="colorOnPrimary">#FFFFFF</color>
-        <color name="colorSecondary">#03DAC5</color>
-        <color name="colorSecondaryVariant">#018786</color>
+        <color name="colorSecondary">#A06FA8</color>
+        <color name="colorSecondaryVariant">#673AB7</color>
         <color name="colorOnSecondary">#000000</color>
         <color name="colorBackground">#FFFFFF</color>
         <color name="colorOnBackground">#000000</color>

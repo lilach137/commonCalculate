@@ -18,7 +18,7 @@ public class Activity_Stats extends Activity_StatsParent {
         return "your fat percentage is: " + CalculateFatPercentage() ;
     }
 
-    private Float CalculateFatPercentage() {
+    private Integer CalculateFatPercentage() {
         float fatPercentage = 0;
         double tempCalc = ((4.15*waist) - (0.082*weight));
         if (gender == 0){
@@ -27,6 +27,6 @@ public class Activity_Stats extends Activity_StatsParent {
             fatPercentage = (float) ((-76.76+ tempCalc)/weight);
         }
 
-        return fatPercentage;
+        return (int) fatPercentage;
     }
 }
